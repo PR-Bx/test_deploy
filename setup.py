@@ -1,4 +1,4 @@
-import setuptools
+# import setuptools
 
 # with open("README.md", "r", encoding="utf-8") as fh:
 #     long_description = fh.read()
@@ -25,7 +25,7 @@ from setuptools import setup
 setup(
     # Needed to silence warnings (and to be a worthwhile package)
     name='test_package',
-    url='https://github.com/mike-huls/toolbox/tree/main/toolbox',
+    url='https://github.com/PR-Bx/test_deploy',
     author='Pete',
     author_email='peter.redshaw@bx-earth.com',
     # Needed to actually package something
