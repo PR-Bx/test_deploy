@@ -12,7 +12,10 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url='https://github.com/PR-Bx/test_deploy',
-    license='None',
+    project_urls = {
+        "Bug Tracker": "https://github.com/mike-huls/toolbox/issues"
+    },
+    license='MIT',
     packages=['test_package'],
     install_requires=['numpy'],
 )
