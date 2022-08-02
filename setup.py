@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="test_package",
-    version="0.0.1",
+    version="0.0.2",
     author="Peter Redshaw",
     author_email="peter.redshaw@bx-earth.com",
     description="Testing installation of Package",
